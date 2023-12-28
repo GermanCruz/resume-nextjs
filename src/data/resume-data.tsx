@@ -11,11 +11,11 @@ export const RESUME_DATA = {
     "Passionate about information technology security, I research cybersecurity, ethical hacking, and network defense. My goal is to stay ahead of emerging threats and contribute to a safer digital future.",
   summary:
     "Proficient in IT helpdesk support and front-end software engineering, I excel in providing technical assistance and developing user-friendly interfaces for optimal user experience.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/4852235?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
   personalWebsiteUrl: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
   contact: {
-    email: "jason@jxnl.co",
-    tel: "4156106247",
+    email: "germancruz2017@gmail.com",
+    tel: "5103616067",
     social: [
       {
         name: "GitHub",
