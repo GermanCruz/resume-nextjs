@@ -48,7 +48,8 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "2022",
       end: "2023",
-      description: "",
+      description:
+        "Installing and configuring client computer systems.",
     },
     {
       company: "Alameda County IT Department",
@@ -60,8 +61,6 @@ export const RESUME_DATA = {
       end: "2018",
       description:
         "Taking ownership of customer issues and resolving system issues through to resolution.",
-        "Researching, diagnosing, troubleshooting, and identifying solutions to resolve system issues.",
-        "Providing enterprise-level assistance to customers on software and hardware problems.",
     },
     {
       company: "T-Mobile USA",
