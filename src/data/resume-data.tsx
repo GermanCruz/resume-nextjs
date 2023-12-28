@@ -28,7 +28,6 @@ export const RESUME_DATA = {
     "Passionate about information technology security, I research cybersecurity, ethical hacking, and network defense. My goal is to stay ahead of emerging threats and contribute to a safer digital future.",
   summary:
     "Proficient in IT helpdesk support and front-end software engineering, I excel in providing technical assistance and developing user-friendly interfaces for optimal user experience.",
-  avatarUrl: "",
   personalWebsiteUrl: "",
   contact: {
     email: "germancruz2017@gmail.com",
@@ -45,7 +44,7 @@ export const RESUME_DATA = {
     {
       company: "Renascent Technology",
       title: "Employee",
-      logo: "", // Add logo if available
+      // Add logo if available
       start: "2022",
       end: "2023",
       description:
@@ -56,7 +55,6 @@ export const RESUME_DATA = {
       link: "https://www.flickr.com/photos/alcoitd/albums/72157684558692883/",
       badges: "Sabbatical",
       title: "Intern",
-      logo: "", // Add logo if available
       start: "2016",
       end: "2018",
       description:
@@ -64,10 +62,8 @@ export const RESUME_DATA = {
     },
     {
       company: "T-Mobile USA",
-      link: "",
       badges: "System",
       title: "signature Bilingual Mobile Expert",
-      logo: "", // Add logo if available
       start: "2018",
       end: "2022",
       description: (
@@ -87,8 +83,6 @@ export const RESUME_DATA = {
       description:
         "basic mvp for student knowledge database",
       link: {
-        label: "",
-        href: "",
       },
     },
   ],
