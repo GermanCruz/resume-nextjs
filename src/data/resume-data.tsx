@@ -64,7 +64,7 @@ export const RESUME_DATA = {
       start: "2016",
       end: "2018",
       description:
-        ""Taking ownership of customer issues and resolving system issues through to resolution.",
+        "Taking ownership of customer issues and resolving system issues through to resolution.",
         "Researching, diagnosing, troubleshooting, and identifying solutions to resolve system issues.",
         "Providing enterprise-level assistance to customers on software and hardware problems.",
     },
