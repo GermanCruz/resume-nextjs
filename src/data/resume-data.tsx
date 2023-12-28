@@ -37,7 +37,7 @@ export const RESUME_DATA = {
       {
         name: "GitHub",
         url: "https://github.com/GermanCruz",
-        icon: GitHubIcon,
+        icon: GitHubIcon, // Ensure GitHubIcon is imported or defined
       },
     ],
   },
@@ -48,12 +48,13 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "2022",
       end: "2023",
-      description:
+      description: [
         "Installing and configuring client computer systems.",
         "Responding to client IT support requests and diagnosing hardware or software issues.",
         "Providing technical support on-site or via remote-access systems.",
         "Repairing hardware malfunctions, software issues, and networking problems.",
-        "Maintaining good client relations and managing work records.",
+        "Maintaining good client relations and managing work records."
+      ],
     },
     {
       company: "Alameda County IT Department",
@@ -63,21 +64,21 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "2016",
       end: "2018",
-      description:
-        ""Taking ownership of customer issues and resolving system issues through to resolution.",
+      description: [
+        "Taking ownership of customer issues and resolving system issues through to resolution.",
         "Researching, diagnosing, troubleshooting, and identifying solutions to resolve system issues.",
-        "Providing enterprise-level assistance to customers on software and hardware problems.",
+        "Providing enterprise-level assistance to customers on software and hardware problems."
+      ],
     },
     {
       company: "T-Mobile USA",
       link: "",
       badges: "System",
-      title: "signature Bilingual Mobile Expert",
+      title: "Signature Bilingual Mobile Expert",
       logo: "", // Add logo if available
       start: "2018",
       end: "2022",
-      description: (
-      ),
+      description: [], // Add description items here if available
     },
   ],
   skills: [
@@ -90,14 +91,11 @@ export const RESUME_DATA = {
     {
       title: "PaveMyPath",
       techStack: ["html", "css", "javascript"],
-      description:
-        "basic mvp for student knowledge database",
+      description: "basic mvp for student knowledge database",
       link: {
         label: "",
         href: "",
       },
     },
-  ],
-      
   ],
 } as const;
