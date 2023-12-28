@@ -50,7 +50,7 @@ export const RESUME_DATA = {
       end: "2023",
       description:
         "Installing and configuring client computer systems.",
-        "Responding to client IT support requests and diagnosing hardware or software issues.",
+        "Responding to client IT support requests and diagnosing hardware or software issues."
         "Providing technical support on-site or via remote-access systems.",
         "Repairing hardware malfunctions, software issues, and networking problems.",
         "Maintaining good client relations and managing work records.",
