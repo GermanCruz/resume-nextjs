@@ -20,120 +20,84 @@ import { LinkedInIcon } from "@/components/icons/LinkedInIcon";
 import { XIcon } from "@/components/icons/XIcon";
 
 export const RESUME_DATA = {
-  selectedTemplate: 9,
-  headings: {
-    work: "Work Experience",
-    skills: "Skills",
-    awards: "Certifications"
+  name: "German Cruz",
+  initials: "gc",
+  location: "San Lorenzo",
+  locationLink: "https://www.google.com/maps/place/San+Lorenzo",
+  about:
+    "Passionate about information technology security, I research cybersecurity, ethical hacking, and network defense. My goal is to stay ahead of emerging threats and contribute to a safer digital future.",
+  summary:
+    "Proficient in IT helpdesk support and front-end software engineering, I excel in providing technical assistance and developing user-friendly interfaces for optimal user experience.",
+  avatarUrl: "",
+  personalWebsiteUrl: "",
+  contact: {
+    email: "germancruz2017@gmail.com",
+    tel: "510.361.6067",
+    social: [
+      {
+        name: "GitHub",
+        url: "https://github.com/GermanCruz",
+        icon: GitHubIcon,
+      },
+    ],
   },
-  basics: {
-    name: "German Cruz",
-    email: "Germancruz2017@gmail.com",
-    phone: "(510) 361-6067",
-    website: "",
-    location: {
-      address: "San Lorenzo, CA"
-    }
-  },
-  education: [
-    // Details of education, if available, should be added here
-    {},
-    {},
-    {}
-  ],
-  skills: [
-    {
-      level: "",
-      keywords: [
-        "Technical troubleshooting",
-        "IT Helpdesk management",
-        "Automation scripting"
-      ]
-    }
-  ],
   work: [
     {
       company: "Renascent Technology",
-      location: "Oakland, CA",
-      position: "IT Support Engineer",
-      website: "",
-      startDate: "2022",
-      endDate: "2023",
-      highlights: [
+      title: "Employee",
+      logo: "", // Add logo if available
+      start: "2022",
+      end: "2023",
+      description:
         "Installing and configuring client computer systems.",
         "Responding to client IT support requests and diagnosing hardware or software issues.",
         "Providing technical support on-site or via remote-access systems.",
         "Repairing hardware malfunctions, software issues, and networking problems.",
-        "Maintaining good client relations and managing work records."
-      ]
+        "Maintaining good client relations and managing work records.",
     },
     {
       company: "Alameda County IT Department",
-      position: "Technical Specialist 1",
-      location: "Oakland, CA",
-      startDate: "2016",
-      endDate: "2018",
-      highlights: [
-        "Taking ownership of customer issues and resolving system issues through to resolution.",
+      link: "https://www.flickr.com/photos/alcoitd/albums/72157684558692883/",
+      badges: "Sabbatical",
+      title: "Intern",
+      logo: "", // Add logo if available
+      start: "2016",
+      end: "2018",
+      description:
+        ""Taking ownership of customer issues and resolving system issues through to resolution.",
         "Researching, diagnosing, troubleshooting, and identifying solutions to resolve system issues.",
-        "Providing enterprise-level assistance to customers on software and hardware problems."
-      ]
+        "Providing enterprise-level assistance to customers on software and hardware problems.",
     },
     {
       company: "T-Mobile USA",
-      position: "Bilingual Mobile Expert",
-      location: "Hayward, CA",
-      startDate: "2018",
-      endDate: "2020",
-      highlights: [
-        // Add specific highlights for this position
-      ]
+      link: "",
+      badges: "System",
+      title: "signature Bilingual Mobile Expert",
+      logo: "", // Add logo if available
+      start: "2018",
+      end: "2022",
+      description: (
+      ),
     },
-    {
-      company: "T-Mobile USA",
-      position: "Bilingual Signature Mobile Expert",
-      location: "Downtown San Francisco",
-      startDate: "2020",
-      endDate: "2021",
-      highlights: [
-        // Add specific highlights for this position
-      ]
-    }
+  ],
+  skills: [
+    "Python",
+    "Technical troubleshooting",
+    "IT Helpdesk management",
+    "Automation scripting",
   ],
   projects: [
-    // Add any projects here
     {
-      name: "",
-      description: "",
-      url: "",
-      keywords: [
-        ""
-      ]
-    }
-  ],
-  awards: [
-    {
-      title: "Secure Email Gateway - Level 1 Warrior Certification, Mimecast",
-      awarder: "",
-      summary: "",
-      date: "2023"
+      title: "PaveMyPath",
+      techStack: ["html", "css", "javascript"],
+      description:
+        "basic mvp for student knowledge database",
+      link: {
+        label: "",
+        href: "",
+      },
     },
-    {
-      title: "Email Security Cloud Gateway Advanced, Mimecast",
-      date: "2023"
-    },
-    {
-      title: "Microsoft Office Specialist, Microsoft",
-      date: "2014"
-    }
   ],
-  sections: [
-    "templates",
-    "profile",
-    "education",
-    "work",
-    "skills",
-    "projects",
-    "awards"
-  ]
+      
+  ],
 } as const;
