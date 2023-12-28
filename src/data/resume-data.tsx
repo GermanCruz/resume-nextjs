@@ -54,7 +54,7 @@ export const RESUME_DATA = {
         "Providing technical support on-site or via remote-access systems.",
         "Repairing hardware malfunctions, software issues, and networking problems.",
         "Maintaining good client relations and managing work records."
-      ],
+      ]
     },
     {
       company: "Alameda County IT Department",
@@ -68,7 +68,7 @@ export const RESUME_DATA = {
         "Taking ownership of customer issues and resolving system issues through to resolution.",
         "Researching, diagnosing, troubleshooting, and identifying solutions to resolve system issues.",
         "Providing enterprise-level assistance to customers on software and hardware problems."
-      ],
+      ]
     },
     {
       company: "T-Mobile USA",
