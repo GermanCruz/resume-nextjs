@@ -3,14 +3,14 @@ import { LinkedInIcon } from "../components/icons/LinkedInIcon";
 import { XIcon } from "../components/icons/XIcon";
 
 export const RESUME_DATA = {
-  name: "Jason Liu",
-  initials: "jxnl",
-  location: "New York",
-  locationLink: "https://www.google.com/maps/place/New+York",
+  name: "German Cruz",
+  initials: "gm",
+  location: "San Lorenzo",
+  locationLink: "https://www.google.com/maps/place/San+Lorenzo",
   about:
-    "Cycling my time between artist and tinkerer. Currently I’m obsessed with finding the right abstractions and patterns to work with large language models.",
+    "Passionate about information technology security, I research cybersecurity, ethical hacking, and network defense. My goal is to stay ahead of emerging threats and contribute to a safer digital future.",
   summary:
-    "I am currently on sabbatical at South Park Commons, where I consult and advise fast growing startups on applied ai and tech strategy.",
+    "Proficient in IT helpdesk support and front-end software engineering, I excel in providing technical assistance and developing user-friendly interfaces for optimal user experience.",
   avatarUrl: "https://avatars.githubusercontent.com/u/4852235?v=4",
   personalWebsiteUrl: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
   contact: {
