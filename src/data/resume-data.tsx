@@ -14,17 +14,17 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
   personalWebsiteUrl: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
   contact: {
-    email: "germancruz2017@gmail.com",
+    email: "germancruz-1@proton.me",
     tel: "5103616067",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/jxnl",
+        url: "https://github.com/GermanCruz",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/jxnlco/",
+        url: "https://www.linkedin.com",
         icon: LinkedInIcon,
       },
       {
