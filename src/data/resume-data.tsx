@@ -34,7 +34,7 @@ export const RESUME_DATA = {
       },
     ],
   },
-  education: [
+  degree: [
     {
       school: "Kentridge High-School",
       start: "2013",
