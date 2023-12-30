@@ -46,11 +46,11 @@ export const RESUME_DATA = {
     {
       company: "Renascent Technology, LLC",
       link: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
-      badges: ["Consulting"],
+      badges: ["Test"],
       title: "Employee",
       logo: "", // Add logo if available
-      start: "2023",
-      end: "Present",
+      start: "2022",
+      end: "2023",
       description:
         "Working with seed stage companies, helping founders with tech strategy, research, and infrastructure.",
     },
