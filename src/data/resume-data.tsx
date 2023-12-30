@@ -36,10 +36,10 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Test",
-      degree: "B.Math. Computational Mathematics and Statistics",
-      start: "2012",
-      end: "2017",
+      school: "Chabot College",
+      degree: "AS",
+      start: "2018",
+      end: "2022",
     },
   ],
   work: [
