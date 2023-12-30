@@ -49,10 +49,10 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Renascent Technology, LLC",
-      link: "https://german-cruz.notion.site/german-cruz/Howdy-935cd4f92a214580b93f6ece3efc0d0a,
+      link: "https://german-cruz.notion.site/german-cruz/Howdy-935cd4f92a214580b93f6ece3efc0d0a",
       badges: ["Full-Time-Employment"],
       title: "Employee",
-      logo: "", // Add logo if available
+      logo: "" , // Add logo if available
       start: "2022",
       end: "2023",
       description:
