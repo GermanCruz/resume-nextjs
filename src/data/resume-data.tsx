@@ -34,18 +34,6 @@ export const RESUME_DATA = {
       },
     ],
   },
-  education: [
-    {
-      school: "Kentridge High-School",
-      start: "2013",
-      end: "2015",
-    },
-    {
-      school: "Arroyo High-School",
-      start: "2015",
-      end: "2017",
-    },
-  ],
   work: [
     {
       company: "Renascent Technology, LLC",
