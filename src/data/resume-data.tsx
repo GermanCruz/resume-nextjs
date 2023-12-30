@@ -108,7 +108,7 @@ export const RESUME_DATA = {
       description:
         "An app designed to guide high school and college students in discovering their ideal career paths through personalized assessments and educational resources.",
       link: {
-        label: "Hackathon",
+        label: "consulty.com",
         href: "https://www.flickr.com/photos/alcoitd/25287367239/in/album-72157665703786985/",
       },
     },
