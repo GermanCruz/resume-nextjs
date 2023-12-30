@@ -12,7 +12,7 @@ export const RESUME_DATA = {
   summary:
     "Proficient in IT helpdesk support and front-end software engineering, I excel in providing technical assistance and developing user-friendly interfaces for optimal user experience.",
   avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
-  personalWebsiteUrl: "https://german-cruz.notion.site/german-cruz/Howdy-935cd4f92a214580b93f6ece3efc0d0a",
+  personalWebsiteUrl: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
   contact: {
     email: "germancruz-1@proton.me",
     tel: "5103616067",
@@ -24,96 +24,129 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/german-cruz-01b06a2a7/",
+        url: "https://www.linkedin.com",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://twitter.com/tester1cr",
+        url: "https://x.com/jxnlco",
         icon: XIcon,
       },
     ],
   },
+  education: [
+    {
+      school: "University of Waterloo",
+      degree: "B.Math. Computational Mathematics and Statistics",
+      start: "2012",
+      end: "2017",
+    },
+  ],
   work: [
     {
-      company: "Renascent Technology, LLC",
-      link: "https://german-cruz.notion.site/german-cruz/Howdy-935cd4f92a214580b93f6ece3efc0d0a",
-      badges: ["Full-Time-Employment"],
-      title: "Employee",
-      logo: "" , // Add logo if available
-      start: "2022",
-      end: "2023",
+      company: "567",
+      link: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
+      badges: ["Consulting"],
+      title: "Owner / Consultant",
+      logo: "", // Add logo if available
+      start: "2023",
+      end: "Present",
       description:
         "Working with seed stage companies, helping founders with tech strategy, research, and infrastructure.",
     },
     {
-      company: "Alameda County Information Technology Department",
-      link: "https://www.flickr.com/photos/alcoitd/albums/72157684558692883/",
-      badges: ["Technical-Specialist 1"],
-      title: "Technical-Specialist 1",
+      company: "South Park Commons",
+      link: "https://www.southparkcommons.com/",
+      badges: ["Sabbatical"],
+      title: "Member",
       logo: "", // Add logo if available
-      start: "2016",
-      end: "2017",
+      start: "2023",
+      end: "Present",
+      description:
+        "Exploring LLM tooling around structured extraction and self-hosting. Launched Youtube University and developing Journal, an AI-powered journaling application.",
+    },
+    {
+      company: "Stitchfix",
+      link: "https://www.stitchfix.com/",
+      badges: ["System"],
+      title: "Staff ML Engineer",
+      logo: "", // Add logo if available
+      start: "2018",
+      end: "2023",
       description: (
         <>
           <li>
-            Developed internal web and iOS applications, including an Ergonomic Evaluation tool and the AC PaveMyPath app.{" "}
-            <a href="https://www.flickr.com/photos/alcoitd/25536217142/in/album-72157665703786985/">[1]</a>
+            Designed Flight framework, improving reliability, scalability,
+            adopted by over 80% of organization, servicing 350 million daily
+            requests.{" "}
+            <a href="https://newsroom.stitchfix.com/blog/your-shop-is-getting-an-update-shop-by-category-will-make-it-easier-to-discover-things-youll-love/">[1]</a>
           </li>
           <li>
-            Streamlined paperless procedures using Docusign APIs. 
+            Led vision research, managed data acquisition, fine-tuned models, developed
+            300,000+ outfit dataset to power new Stitch Fix outfit recommender. 
           </li>
           <li>
-            managed hardware refresh projects with custom image deployments, and enhanced device security through BitLocker encryption implementation.
+            Developed product similarity search with multi-modal embeddings,
+            boosting revenue by over $50 million annually. <a href="https://newsroom.stitchfix.com/blog/how-we-understand-your-personal-style/">[2]</a>
           </li>
         </>
       ),
     },
     {
-      company: "T-Mobile, USA",
-      link: "https://www.t-mobile.com/",
-      badges: ["Full-Time-Employment"],
-      title: "Employee",
-      logo: "", // Add logo if available
-      start: "2018",
-      end: "2022",
+      company: "Facebook",
+      link: "https://about.meta.com/actions/promoting-safety-and-expression/",
+      badges: ["Data Science"],
+      title: "Data Scientist",
+      logo: "",
+      start: "2017",
+      end: "2017",
       description:
-        "As a bilingual sales representative at the world's largest T-Mobile store at the time, I consistently exceeded key sales metrics across activations, 'Beyond the Smartphone' initiatives, and accessory sales, while also training colleagues and innovating in sales methodologies and technology adoption.",
+        "Created algorithms for identifying harmful content and developed dashboards to detect malicious activities.",
+    },
+    {
+      company: "New York University",
+      link: "https://www.nyu.edu/",
+      badges: ["Research"],
+      title: "Research Assistant",
+      start: "2015",
+      end: "2017",
+      description:
+        "Under Rumi Chunara, centered around public health and social media.",
+      logo: "", // Path to NYU logo image
     },
   ],
   skills: [
     "Python",
-    "Technical-Troubleshooting",
-    "IT Helpdesk Management",
+    "Pytorch",
+    "LLMs",
     "Prompt Engineering",
-    "Automation Scripting",
-    "Mac OS",
-    "Windows",
-    "Telecommunications",
-    "Sales",
+    "Structured Extraction",
+    "Observability",
+    "Developer Tools",
+    "Machine Learning",
+    "Data Science",
   ],
   projects: [
-
-  {
-      title: "AC Pave My Path",
-      techStack: ["HTML", "CSS", "JS", "Firebase"],
+    {
+      title: "Instructor",
+      techStack: ["python", "llms", "structured extraction"],
       description:
-        "An app designed to guide high school and college students in discovering their ideal career paths through personalized assessments and educational resources.",
+        "Structured extraction for LLMS using Pydantic, Over 30k monthly downloads on PyPI.",
       link: {
-        label: "Hackathon",
-        href: "https://www.flickr.com/photos/alcoitd/25287367239/in/album-72157665703786985/",
+        label: "Instructor",
+        href: "https://jxnl.github.io/instructor/",
       },
     },
     {
-      title: "T-Mobile/Sprint Merger Integration",
-      techStack: ["Power-BI", "Trainings", "Sales-Strategy"],
+      title: "Multimodal Search",
+      techStack: ["Stitchfix", "pytorch", "representation learning", "search"],
       description:
-        "As an integrationist and trainer for the T-Mobile/Sprint merger, I specialized in seamlessly blending systems and processes while educating teams on the unified operational framework and technologies.",
+        "Lead computer vision research, and embedding search system using multi-modal embeddings powered by image, text, and impression data.",
       link: {
-        label: "Instructor",
+        label: "Stylist Shuffle",
+        href: "https://www.stitchfix.com/women/blog/inside-stitchfix/how-style-shuffle-works/",
       },
     },
-    
     {
       title: "RecSys Framework",
       techStack: ["devops", "python", "orchestration", "observability"],
