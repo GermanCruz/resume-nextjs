@@ -46,13 +46,13 @@ export const RESUME_DATA = {
     {
       company: "Renascent Technology, LLC",
       link: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
-      badges: ["Test"],
+      badges: ["Full Time Employee"],
       title: "Employee",
       logo: "", // Add logo if available
       start: "2022",
       end: "2023",
       description:
-        "Working with seed stage companies, helping founders with tech strategy, research, and infrastructure.",
+        "Provided comprehensive technical support and managed IT helpdesk operations, collaborated with diverse professional teams, utilized software automation with Python, Bash, and PowerShell, and administered Google Workspace and MDM solutions across macOS, Windows, and Linux systems.",
     },
     {
       company: "South Park Commons",
