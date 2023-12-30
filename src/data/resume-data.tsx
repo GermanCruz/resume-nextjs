@@ -34,14 +34,6 @@ export const RESUME_DATA = {
       },
     ],
   },
-  education: [
-    {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
-    },
-  ],
   work: [
     {
       company: "Renascent Technology, LLC",
@@ -100,18 +92,6 @@ export const RESUME_DATA = {
     "Telecommunications",
     "Sales",
   ],
-  projects: [
-
-  {
-      title: "AC Pave My Path",
-      techStack: ["HTML", "CSS", "JS", "Firebase"],
-      description:
-        "An app designed to guide high school and college students in discovering their ideal career paths through personalized assessments and educational resources.",
-      link: {
-        label: "consulty.com",
-        href: "https://www.flickr.com/photos/alcoitd/25287367239/in/album-72157665703786985/",
-      },
-    },
     {
       title: "T-Mobile/Sprint Merger Integration",
       techStack: ["Power-BI", "Trainings", "Sales-Strategy"],
@@ -119,113 +99,6 @@ export const RESUME_DATA = {
         "As an integrationist and trainer for the T-Mobile/Sprint merger, I specialized in seamlessly blending systems and processes while educating teams on the unified operational framework and technologies.",
       link: {
         label: "Instructor",
-      },
-    },
-    
-    {
-      title: "RecSys Framework",
-      techStack: ["devops", "python", "orchestration", "observability"],
-      description:
-        "Designed and implemented Flight, a recommendation framework that improved system reliability and scalability, handling over 350 million daily requests.",
-      link: {
-        label: "Learn more about Flight at Stitchfix",
-        href: "https://jxnl.notion.site/Recommendations-with-Flight-at-Stitch-Fix-bf5de4e932b34af1ad912294236d81ba",
-      },
-    },
-    {
-      title: "Journal",
-      techStack: ["typescript", "prompt engineering"],
-      description:
-        "AI-powered journaling application with long-term memory and semantic search.",
-      link: {
-        label: "Journal",
-        href: "http://usejournal.xyz",
-      },
-    },
-  ],
-  clients: [
-    {
-      title: "Naro",
-      techStack: ["python", "prompt engineering", "sales"],
-      description:
-        "Naro sits in the background, using contextual clues to proactively select the right content and messaging for each customer conversation, from emails to meetings.",
-      link: {
-        label: "narohq.com",
-        href: "http://narohq.com",
-      },
-    },
-    {
-      title: "Trunk Tools",
-      techStack: [
-        "construction",
-        "technical advisor",
-        "retrival",
-      ],
-      description:
-        "Trunk Tools addresses the skilled labor shortage in construction, enhancing workforce productivity through AI-based tools.",
-      link: {
-        label: "trunktools.com",
-        href: "https://trunktools.com/",
-      },
-    },
-    {
-      title: "Modal Labs",
-      techStack: ["technical writing", "python"],
-      description:
-        "Modal specializes in cloud functions, offering a platform for running generative AI models, large-scale batch jobs, and more.",
-      link: {
-        label: "modal.com",
-        href: "https://modal.com/",
-      },
-    },
-    {
-      title: "Pydantic",
-      techStack: ["technical writing", "python"],
-      description:
-        "Pydantic provides data validation and settings management using Python type annotations, enforcing type hints at runtime with user-friendly error handling.",
-      link: {
-        label: "pydantic.dev",
-        href: "http://pydantic.dev",
-      },
-    },
-    {
-      title: "Weight & Biases",
-      techStack: [
-        "technical writing",
-        "education",
-        "machine learning",
-      ],
-      description:
-        "Wandb (Weights & Biases) provides a platform for tracking machine learning experiments, offering tools for visualization, comparison, and collaboration in ML projects.",
-      link: {
-        label: "wandb.ai",
-        href: "https://wandb.ai/",
-      },
-    },
-    {
-      title: "New Computer",
-      techStack: ["personal computing", "python"],
-      description:
-        "Dot by New Computer is an intelligent guide designed to help you remember, organize, and navigate your life.",
-      link: {
-        label: "new.computer",
-        href: "http://new.computer",
-      },
-    },
-
-    {
-      title: "Kay.ai",
-      techStack: [
-        "retrieval",
-        "evals",
-        "infrastucture",
-        "python",
-      ],
-      description:
-        "Retrieve relevant context from the semantic web for your LLM apps with fully hosted embeddings.",
-      link: {
-        label: "Kay.ai",
-        href: "http://Kay.ai",
       },
     },
   ],
