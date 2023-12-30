@@ -80,18 +80,6 @@ export const RESUME_DATA = {
       description:
         "As a bilingual sales representative at the world's largest T-Mobile store at the time, I consistently exceeded key sales metrics across activations, 'Beyond the Smartphone' initiatives, and accessory sales, while also training colleagues and innovating in sales methodologies and technology adoption.",
     },
-  ],
-  skills: [
-    "Python",
-    "Technical-Troubleshooting",
-    "IT Helpdesk Management",
-    "Prompt Engineering",
-    "Automation Scripting",
-    "Mac OS",
-    "Windows",
-    "Telecommunications",
-    "Sales",
-  ],
     {
       title: "T-Mobile/Sprint Merger Integration",
       techStack: ["Power-BI", "Trainings", "Sales-Strategy"],
