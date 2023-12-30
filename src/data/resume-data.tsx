@@ -36,7 +36,7 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "University of Waterloo",
+      school: "Test",
       degree: "B.Math. Computational Mathematics and Statistics",
       start: "2012",
       end: "2017",
