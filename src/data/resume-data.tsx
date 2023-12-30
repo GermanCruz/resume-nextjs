@@ -44,7 +44,7 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "567",
+      company: "Renascent Technology, LLC",
       link: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
       badges: ["Consulting"],
       title: "Owner / Consultant",
