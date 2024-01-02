@@ -89,7 +89,7 @@ export const RESUME_DATA = {
       ),
     },
     {
-      company: "Alameda County Information Technology Department",
+      company: "Alameda County ITD",
       link: "https://itd.acgov.org/",
       badges: ["Technical Specialist 1"],
       title: "Paid Intern",
