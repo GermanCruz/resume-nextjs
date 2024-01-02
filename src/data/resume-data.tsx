@@ -135,19 +135,19 @@ export const RESUME_DATA = {
       description: (
         <>
           <li>
-            Recipient of the Winners Cicle Award for the third quarter of 2019.{" "}
+            Conducted training sessions and practical exercises for the implementation of new sprint systems.
           </li>
           <li>
-            Top salesman overall 2019 across all metrics (activations, feature add-ons, beyond-thesmartphone sales, accessories & customer satisfaction (NPS).
+            Collaborated with a team of 35+ employees to consistently exceed sales metric quotas.
           </li>
           <li>
-            Headed the rapid execution sales team, aiming to swiftly adapt to market demands and enhance quantitative sales outcomes.
+           Headed the rapid execution sales team, aiming to swiftly adapt to market demands. 
           </li>
           <li>
-            Conducted training sessions and practical exercises for the implementation of new sprint systems, marking the culmination of the T-Mobile-Sprint merger.
+            Recipient of the Winners Cicle Award for the third quarter of 2019.
           </li>
           <li>
-            Collaborated with a team of 35+ employees to consistently exceed sales metric quotas and deliver secure and timely service in the midst of the COVID-19 pandemic.
+            Top salesman overall 2019 across all metrics.
           </li>
         </>
       ),
