@@ -51,7 +51,7 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "2023",
       end: "Present",
-      description:
+      description: (
          <>
           <li>
             Installing, troubleshooting, and resolving technical issues related to computer hardware and software, including network issues. {" "}
@@ -68,7 +68,8 @@ export const RESUME_DATA = {
            <li>
             Assisting with the maintenance and updates of web pages.
           </li>
-        </>,
+        </>
+      ),
     },
     {
       company: "Renascent Technology, LLC",
@@ -78,7 +79,7 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "2022",
       end: "2023",
-      description:
+      description: (
         <>
           <li>
             Provided technical support to clients, addressing software and hardware issues through various channels including on-site and remote support. {" "}
@@ -95,7 +96,8 @@ export const RESUME_DATA = {
            <li>
             MDM implementation for effecient device management and signle sign-on integrations for various platforms.
           </li>
-        </>,
+        </>
+      ),
     },
      {
       company: "Alameda County ITD",
@@ -105,7 +107,7 @@ export const RESUME_DATA = {
       logo: "",
       start: "2017",
       end: "2018",
-      description:
+      description: (
         <>
           <li>
             Developed internal web applications and IOS apps, including an Ergonomic Evaluation tool and AC PaveMyPath app for students. {" "}
@@ -116,7 +118,8 @@ export const RESUME_DATA = {
           <li>
             Managed hardware refresh projects and deployed custom images to multiple devices. 
           </li>
-        </>,
+        </>
+       ),
     },
     {
       company: "T-Mobile USA",
