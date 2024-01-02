@@ -135,7 +135,7 @@ export const RESUME_DATA = {
             Recipient of the Winners Cicle Award for the third quarter of 2019.{" "}
           </li>
           <li>
-            Top salesman overall 2019 across all metrics (activations, feature add-ons, beyond-thesmartphone sales, accessories & customer satisfaction (NPS).{" "}
+            Top salesman overall 2019 across all metrics (activations, feature add-ons, beyond-thesmartphone sales, accessories & customer satisfaction (NPS).
           </li>
           <li>
             Headed the rapid execution sales team, aiming to swiftly adapt to market demands and enhance quantitative sales outcomes.
@@ -171,8 +171,7 @@ export const RESUME_DATA = {
         label: "Creator",
         href: "https://www.flickr.com/photos/alcoitd/25287367239/in/album-72157665703786985/",
       },
-    },
-    
+    },    
   ],
   clients: [
     {
