@@ -8,9 +8,9 @@ export const RESUME_DATA = {
   location: "San Lorenzo",
   locationLink: "https://www.google.com/maps/place/San+Lorenzo",
   about:
-    "Passionate about information technology security, I research cybersecurity, ethical hacking, and network defense. My goal is to stay ahead of emerging threats and contribute to a safer digital future.",
+    "Passionate about information technology, I research cybersecurity, ethical hacking, and network defense. My goal is to stay ahead of emerging threats and contribute to a safer digital future.",
   summary:
-    "Proficient in IT helpdesk support and front-end software engineering, I excel in providing technical assistance and developing user-friendly interfaces for optimal user experience.",
+    "Proficient in IT helpdesk Support and front-end software engineering, I excel in providing technical assistance and developing user-friendly interfaces.",
   avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
   personalWebsiteUrl: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
   contact: {
@@ -52,7 +52,17 @@ export const RESUME_DATA = {
       start: "2023",
       end: "Present",
       description:
-        "At the City of San Leandro, I excelled as an IT Helpdesk Analyst II, where I provided advanced technical support, resolved complex IT issues, and enhanced system efficiency for various city departments.",
+         <>
+          <li>
+            Aided in the city-wide hardware refresh initiative by imaging devices. {" "}
+          </li>
+          <li>
+            Provided technical user support for Windows desktop machines.
+          </li>
+          <li>
+            Created inter department sharepoint sites for user support. 
+          </li>
+        </>",
     },
     {
       company: "Renascent Technology, LLC",
@@ -92,7 +102,7 @@ export const RESUME_DATA = {
       company: "Alameda County ITD",
       link: "https://itd.acgov.org/",
       badges: ["Technical Specialist 1"],
-      title: "Paid Intern",
+      title: "Internship",
       logo: "",
       start: "2017",
       end: "2018",
