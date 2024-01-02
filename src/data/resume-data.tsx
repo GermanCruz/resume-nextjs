@@ -42,17 +42,6 @@ export const RESUME_DATA = {
       end: "Present",
     },
   ],
-skills: [
-    "Firewall configurations & management",
-    "IP protocols",
-    "Network security (VLAN, VPN)",
-    "Inventory tracking",
-    "Airtable",
-    "Windows powershell",
-    "Okta workflows",
-    "Microsoft suite",
-    "1Password",
-  ],
   work: [
     {
       company: "City Of San Leandro",
