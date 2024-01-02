@@ -138,10 +138,10 @@ export const RESUME_DATA = {
             Collaborated with a team of 35+ employees to consistently exceed sales metric quotas.
           </li>
           <li>
-            Conducted training sessions for the implementation of new sprint systems.
+            Headed the rapid execution sales team, aiming to swiftly adapt to market demands.
           </li>
           <li>
-           Headed the rapid execution sales team, aiming to swiftly adapt to market demands. 
+            Conducted training sessions for the implementation of new sprint systems.
           </li>
           <li>
             Recipient of the Winners Cicle Award for the third quarter of 2019.
