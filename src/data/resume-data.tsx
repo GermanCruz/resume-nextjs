@@ -24,12 +24,12 @@ export const RESUME_DATA = {
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com",
+        url: "https://www.linkedin.com/in/german-cruz-01b06a2a7/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://x.com/jxnlco",
+        url: "https://twitter.com/tester1cr",
         icon: XIcon,
       },
     ],
@@ -37,33 +37,33 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Chabot College",
-      degree: "AS",
+      degree: "NA",
       start: "2018",
-      end: "2022",
+      end: "2019",
     },
   ],
   work: [
     {
+      company: "City Of San Leandro",
+      link: "https://www.sanleandro.org/",
+      badges: ["Contract"],
+      title: "Employee",
+      logo: "", // Add logo if available
+      start: "2023",
+      end: "Present",
+      description:
+        "At the City of San Leandro, I excelled as an IT Helpdesk Analyst II, where I provided advanced technical support, resolved complex IT issues, and enhanced system efficiency for various city departments.",
+    },
+    {
       company: "Renascent Technology, LLC",
-      link: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
+      link: "https://german-cruz.notion.site/german-cruz/Howdy-935cd4f92a214580b93f6ece3efc0d0a",
       badges: ["Full Time"],
       title: "Employee",
       logo: "", // Add logo if available
       start: "2022",
       end: "2023",
       description:
-        "Provided comprehensive technical support and managed IT helpdesk operations, collaborated with diverse professional teams, utilized software automation with Python, Bash, and PowerShell, and administered Google Workspace and MDM solutions across macOS, Windows, and Linux systems.",
-    },
-    {
-      company: "South Park Commons",
-      link: "https://www.southparkcommons.com/",
-      badges: ["Sabbatical"],
-      title: "Member",
-      logo: "", // Add logo if available
-      start: "2023",
-      end: "Present",
-      description:
-        "Exploring LLM tooling around structured extraction and self-hosting. Launched Youtube University and developing Journal, an AI-powered journaling application.",
+        "As an IT Support Engineer, I managed IT Helpdesk operations, provided on-site technical support, handled software procurement and design, data analysis, automation, administered Microsoft and Google Workspace, and managed MDM for both iOS and Android devices.",
     },
     {
       company: "Stitchfix",
