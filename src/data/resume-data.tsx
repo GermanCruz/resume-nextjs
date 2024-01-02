@@ -85,7 +85,7 @@ export const RESUME_DATA = {
       description: (
         <>
           <li>
-            Managed IT Helpdesk operations, overseeing tasks such as new hire onboarding, troubleshooting, and user offboarding. {" "}
+            Oversaw tasks such as new hire onboarding, troubleshooting, and user offboarding. {" "}
           </li>
           <li>
            Provided technical support to clients, addressing hardware and software issues.
