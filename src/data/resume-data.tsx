@@ -113,13 +113,13 @@ export const RESUME_DATA = {
       description: (
         <>
           <li>
-            Developed internal web applications and IOS apps, including an Ergonomic Evaluation tool and AC PaveMyPath app for students. {" "}
+            Utilized DocuSign APIs for paperless procedures. 
           </li>
           <li>
-            Utilized DocuSign APIs for paperless procedures and employed SCCM for device management.
+            Developed internal Ergonomic Evaluation web application. {" "}
           </li>
           <li>
-            Managed hardware refresh projects and deployed custom images to multiple devices. 
+            Managed hardware refresh projects and deployed custom images to multiple devices.
           </li>
         </>
        ),
