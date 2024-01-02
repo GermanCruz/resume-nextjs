@@ -113,7 +113,7 @@ export const RESUME_DATA = {
             Developed internal web applications and IOS apps, including an Ergonomic Evaluation tool and AC PaveMyPath app for students. {" "}
           </li>
           <li>
-            Utilized DocuSign API's for paperless procedures and employed SCCM for device management.
+            Utilized DocuSign APIs for paperless procedures and employed SCCM for device management.
           </li>
           <li>
             Managed hardware refresh projects and deployed custom images to multiple devices. 
