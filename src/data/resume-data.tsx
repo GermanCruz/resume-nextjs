@@ -54,22 +54,22 @@ export const RESUME_DATA = {
       description: (
          <>
           <li>
-            Installing, troubleshooting, and resolving technical issues. {" "}
+            Performing regular maintenance and backups. {" "}
           </li>
           <li>
-            Performing regular maintenance and backups.
+            Writing and documenting technical procedures.
           </li>
           <li>
-            Maintaining records of equipment, inventory, and service requests.
+            Responding to and resolving user queries and prolems.
           </li>
           <li>
-            Writing and documenting technical procedures. 
+            Assisting with the maintenance and updates of web pages. 
           </li>
             <li>
-            Responding to and resolving user queries and prolems. 
+             Installing, troubleshooting, and resolving technical issues.
           </li>
            <li>
-            Assisting with the maintenance and updates of web pages.
+             Maintaining records of equipment, inventory, and service requests.
           </li>
         </>
       ),
