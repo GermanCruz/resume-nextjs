@@ -46,8 +46,8 @@ export const RESUME_DATA = {
     {
       company: "City Of San Leandro",
       link: "https://www.sanleandro.org/",
-      badges: ["Contract"],
-      title: "Employee",
+      badges: ["HelpDesk Analyst II"],
+      title: "Contract Employment",
       logo: "", // Add logo if available
       start: "2023",
       end: "Present",
@@ -57,8 +57,8 @@ export const RESUME_DATA = {
     {
       company: "Renascent Technology, LLC",
       link: "https://german-cruz.notion.site/german-cruz/Howdy-935cd4f92a214580b93f6ece3efc0d0a",
-      badges: ["Full Time"],
-      title: "Employee",
+      badges: ["IT Support Engineer"],
+      title: "Full-Time Employment",
       logo: "", // Add logo if available
       start: "2022",
       end: "2023",
@@ -66,40 +66,36 @@ export const RESUME_DATA = {
         "As an IT Support Engineer, I managed IT Helpdesk operations, provided on-site technical support, handled software procurement and design, data analysis, automation, administered Microsoft and Google Workspace, and managed MDM for both iOS and Android devices.",
     },
     {
-      company: "Stitchfix",
-      link: "https://www.stitchfix.com/",
-      badges: ["System"],
-      title: "Staff ML Engineer",
+      company: "T-Mobile USA",
+      link: "https://www.t-mobile.com/",
+      badges: ["Bilingual Sales Expert"],
+      title: "Full-Time Employment",
       logo: "", // Add logo if available
       start: "2018",
-      end: "2023",
+      end: "2022",
       description: (
         <>
           <li>
-            Designed Flight framework, improving reliability, scalability,
-            adopted by over 80% of organization, servicing 350 million daily
-            requests.{" "}
+            Aided in the training and implemetation of Sprint POS systems & Sales methodology.{" "}
             <a href="https://newsroom.stitchfix.com/blog/your-shop-is-getting-an-update-shop-by-category-will-make-it-easier-to-discover-things-youll-love/">[1]</a>
           </li>
           <li>
-            Led vision research, managed data acquisition, fine-tuned models, developed
-            300,000+ outfit dataset to power new Stitch Fix outfit recommender. 
+            Led sales in voice activations, Internet of things, feature revenue, business activations & accessories.
           </li>
           <li>
-            Developed product similarity search with multi-modal embeddings,
-            boosting revenue by over $50 million annually. <a href="https://newsroom.stitchfix.com/blog/how-we-understand-your-personal-style/">[2]</a>
+            Utilized Power BI to leverage customer & troubleshoot trouble areas. <a href="https://newsroom.stitchfix.com/blog/how-we-understand-your-personal-style/">[2]</a>
           </li>
         </>
       ),
     },
     {
-      company: "Facebook",
-      link: "https://about.meta.com/actions/promoting-safety-and-expression/",
-      badges: ["Data Science"],
-      title: "Data Scientist",
+      company: "Alameda County Information Technology Department",
+      link: "https://itd.acgov.org/",
+      badges: ["Technical Specialist 1"],
+      title: "Paid Intern",
       logo: "",
       start: "2017",
-      end: "2017",
+      end: "2018",
       description:
         "Created algorithms for identifying harmful content and developed dashboards to detect malicious activities.",
     },
