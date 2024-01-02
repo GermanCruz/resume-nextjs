@@ -135,10 +135,10 @@ export const RESUME_DATA = {
       description: (
         <>
           <li>
-            Conducted training sessions for the implementation of new sprint systems.
+            Collaborated with a team of 35+ employees to consistently exceed sales metric quotas.
           </li>
           <li>
-            Collaborated with a team of 35+ employees to consistently exceed sales metric quotas.
+            Conducted training sessions for the implementation of new sprint systems.
           </li>
           <li>
            Headed the rapid execution sales team, aiming to swiftly adapt to market demands. 
