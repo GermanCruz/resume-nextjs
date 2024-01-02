@@ -8,11 +8,11 @@ export const RESUME_DATA = {
   location: "San Lorenzo",
   locationLink: "https://www.google.com/maps/place/San+Lorenzo",
   about:
-    "Passionate about information technology, I research cybersecurity, ethical hacking, and network defense. My goal is to stay ahead of emerging threats and contribute to a safer digital future.",
+    "Passionate about Information technology, I research cybersecurity, ethical hacking, and network defense. My goal is to stay ahead of emerging threats and contribute to a safer digital future.",
   summary:
-    "Proficient in IT helpdesk Support and front-end software engineering, I excel in providing technical assistance and developing user-friendly interfaces.",
+    "Proficient in IT helpdesk Support, I excel in providing technical assistance.",
   avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
-  personalWebsiteUrl: "https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e",
+  personalWebsiteUrl: "https://german-cruz.notion.site/german-cruz/Howdy-935cd4f92a214580b93f6ece3efc0d0a",
   contact: {
     email: "germancruz-1@proton.me",
     tel: "5103616067",
@@ -37,9 +37,9 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Chabot College",
-      degree: "NA",
+      degree: "In Progress",
       start: "2018",
-      end: "2019",
+      end: "Present",
     },
   ],
   work: [
@@ -54,13 +54,19 @@ export const RESUME_DATA = {
       description:
          <>
           <li>
-            Aided in the city-wide hardware refresh initiative by imaging devices. {" "}
+            Installing, troubleshooting, and resolving technical issues related to computer hardware and software, including network issues. {" "}
           </li>
           <li>
-            Provided technical user support for Windows desktop machines.
+            Performing regular maintenance and backups for computers, maintaining records of equipment, inventory, and service requests.
           </li>
           <li>
-            Created inter department sharepoint sites for user support. 
+            Writing and documenting technical procedures clearly and concisely, particulary for resolving computer operation and equipment issues. 
+          </li>
+            <li>
+            Responding to and resolving user queries and prolems, providing training to small user groups. 
+          </li>
+           <li>
+            Assisting with the maintenance and updates of web pages.
           </li>
         </>,
     },
@@ -73,7 +79,44 @@ export const RESUME_DATA = {
       start: "2022",
       end: "2023",
       description:
-        "As an IT Support Engineer, I managed IT Helpdesk operations, provided on-site technical support, handled software procurement and design, data analysis, automation, administered Microsoft and Google Workspace, and managed MDM for both iOS and Android devices.",
+        <>
+          <li>
+            Provided technical support to clients, addressing software and hardware issues through various channels including on-site and remote support. {" "}
+          </li>
+          <li>
+            Managed IT Helpdesk operations, overseeing tasks such as new hire onboarding, troubleshooting, and user offboarding.
+          </li>
+          <li>
+            Collaborated with diverse teams, including hedge fund managers, biochem labs, engineers, and vendors, to ensure seamless end-usr experiences. 
+          </li>
+            <li>
+            Administered Google & Microsoft administrator portals. 
+          </li>
+           <li>
+            MDM implementation for effecient device management and signle sign-on integrations for various platforms.
+          </li>
+        </>,
+    },
+     {
+      company: "Alameda County ITD",
+      link: "https://itd.acgov.org/",
+      badges: ["Technical Specialist 1"],
+      title: "Internship",
+      logo: "",
+      start: "2017",
+      end: "2018",
+      description:
+        <>
+          <li>
+            Developed internal web applications and IOS apps, including an Ergonomic Evaluation tool and AC PaveMyPath app for students. {" "}
+          </li>
+          <li>
+            Utilized DocuSign API's for paperless procedures and employed SCCM for device management.
+          </li>
+          <li>
+            Managed hardware refresh projects and deployed custom images to multiple devices. 
+          </li>
+        </>,
     },
     {
       company: "T-Mobile USA",
@@ -86,93 +129,47 @@ export const RESUME_DATA = {
       description: (
         <>
           <li>
-            Aided in the training and implemetation of Sprint POS systems & Sales methodology.{" "}
-            <a href="https://newsroom.stitchfix.com/blog/your-shop-is-getting-an-update-shop-by-category-will-make-it-easier-to-discover-things-youll-love/">[1]</a>
+            Recipient of the Winners Cicle Award for the third quarter of 2019.{" "}
           </li>
           <li>
-            Led sales in voice activations, Internet of things, feature revenue, business activations & accessories.
+            Top salesman overall 2019 across all metrics (activations, feature add-ons, beyond-thesmartphone sales, accessories & customer satisfaction (NPS).{" "}
           </li>
           <li>
-            Utilized Power BI to leverage customer & troubleshoot trouble areas. <a href="https://newsroom.stitchfix.com/blog/how-we-understand-your-personal-style/">[2]</a>
+            Headed the rapid execution sales team, aiming to swiftly adapt to market demands and enhance quantitative sales outcomes.
+          </li>
+          <li>
+            Conducted training sessions and practical exercises for the implementation of new sprint systems, marking the culmination of the T-Mobile-Sprint merger.
+          </li>
+          <li>
+            Collaborated with a team of 35+ employees to consistently exceed sales metric quotas and deliver secure and timely service in the midst of the COVID-19 pandemic.
           </li>
         </>
       ),
     },
-    {
-      company: "Alameda County ITD",
-      link: "https://itd.acgov.org/",
-      badges: ["Technical Specialist 1"],
-      title: "Internship",
-      logo: "",
-      start: "2017",
-      end: "2018",
-      description:
-        "Created algorithms for identifying harmful content and developed dashboards to detect malicious activities.",
-    },
-    {
-      company: "New York University",
-      link: "https://www.nyu.edu/",
-      badges: ["Research"],
-      title: "Research Assistant",
-      start: "2015",
-      end: "2017",
-      description:
-        "Under Rumi Chunara, centered around public health and social media.",
-      logo: "", // Path to NYU logo image
-    },
   ],
   skills: [
-    "Python",
-    "Pytorch",
-    "LLMs",
-    "Prompt Engineering",
-    "Structured Extraction",
-    "Observability",
-    "Developer Tools",
-    "Machine Learning",
-    "Data Science",
+    "Firewall configurations & management",
+    "IP protocols",
+    "Network security (VLAN, VPN)",
+    "Inventory tracking",
+    "Airtable",
+    "Windows powershell",
+    "Okta workflows",
+    "Microsoft suite",
+    "1Password",
   ],
   projects: [
     {
-      title: "Instructor",
-      techStack: ["python", "llms", "structured extraction"],
+      title: "ACPaveMyPath",
+      techStack: ["HTML", "CSS", "JS"],
       description:
-        "Structured extraction for LLMS using Pydantic, Over 30k monthly downloads on PyPI.",
+        "A WEB APP THAT EMPOWERS HIGH SCHOOL & COLLEGE STUDENTS.",
       link: {
-        label: "Instructor",
-        href: "https://jxnl.github.io/instructor/",
+        label: "Creator",
+        href: "https://www.flickr.com/photos/alcoitd/25287367239/in/album-72157665703786985/",
       },
     },
-    {
-      title: "Multimodal Search",
-      techStack: ["Stitchfix", "pytorch", "representation learning", "search"],
-      description:
-        "Lead computer vision research, and embedding search system using multi-modal embeddings powered by image, text, and impression data.",
-      link: {
-        label: "Stylist Shuffle",
-        href: "https://www.stitchfix.com/women/blog/inside-stitchfix/how-style-shuffle-works/",
-      },
-    },
-    {
-      title: "RecSys Framework",
-      techStack: ["devops", "python", "orchestration", "observability"],
-      description:
-        "Designed and implemented Flight, a recommendation framework that improved system reliability and scalability, handling over 350 million daily requests.",
-      link: {
-        label: "Learn more about Flight at Stitchfix",
-        href: "https://jxnl.notion.site/Recommendations-with-Flight-at-Stitch-Fix-bf5de4e932b34af1ad912294236d81ba",
-      },
-    },
-    {
-      title: "Journal",
-      techStack: ["typescript", "prompt engineering"],
-      description:
-        "AI-powered journaling application with long-term memory and semantic search.",
-      link: {
-        label: "Journal",
-        href: "http://usejournal.xyz",
-      },
-    },
+    
   ],
   clients: [
     {
