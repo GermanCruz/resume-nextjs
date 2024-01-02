@@ -85,19 +85,19 @@ export const RESUME_DATA = {
       description: (
         <>
           <li>
-            Provided technical support to clients, addressing software and hardware issues through various channels including on-site and remote support. {" "}
+            Managed IT Helpdesk operations, overseeing tasks such as new hire onboarding, troubleshooting, and user offboarding. {" "}
           </li>
           <li>
-            Managed IT Helpdesk operations, overseeing tasks such as new hire onboarding, troubleshooting, and user offboarding.
+           Provided technical support to clients, addressing hardware and software issues.
           </li>
           <li>
-            Collaborated with diverse teams, including hedge fund managers, biochem labs, engineers, and vendors, to ensure seamless end-usr experiences. 
-          </li>
-            <li>
-            Administered Google & Microsoft administrator portals. 
+            Implemented MDM and MAM software for effecient device management.
           </li>
            <li>
-            MDM implementation for effecient device management and signle sign-on integrations for various platforms.
+             Administered Google & Microsoft administrator portals.
+          </li>
+            Integrated SSO integrations for various platforms.
+          <li>  
           </li>
         </>
       ),
