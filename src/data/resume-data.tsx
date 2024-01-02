@@ -62,7 +62,7 @@ export const RESUME_DATA = {
           <li>
             Created inter department sharepoint sites for user support. 
           </li>
-        </>",
+        </>,
     },
     {
       company: "Renascent Technology, LLC",
