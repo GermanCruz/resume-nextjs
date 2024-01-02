@@ -54,16 +54,19 @@ export const RESUME_DATA = {
       description: (
          <>
           <li>
-            Installing, troubleshooting, and resolving technical issues related to computer hardware and software, including network issues. {" "}
+            Installing, troubleshooting, and resolving technical issues. {" "}
           </li>
           <li>
-            Performing regular maintenance and backups for computers, maintaining records of equipment, inventory, and service requests.
+            Performing regular maintenance and backups.
           </li>
           <li>
-            Writing and documenting technical procedures clearly and concisely, particulary for resolving computer operation and equipment issues. 
+            Maintaining records of equipment, inventory, and service requests.
+          </li>
+          <li>
+            Writing and documenting technical procedures. 
           </li>
             <li>
-            Responding to and resolving user queries and prolems, providing training to small user groups. 
+            Responding to and resolving user queries and prolems. 
           </li>
            <li>
             Assisting with the maintenance and updates of web pages.
