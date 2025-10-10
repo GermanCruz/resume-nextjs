@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   location: "San Lorenzo",
   locationLink: "https://www.google.com/maps/place/San+Lorenzo",
   about:
-    "German Cruz is an Information Technology Professional with 8+ years of experience helping businesses grow. ",
+    "Information Technology Professional with 8+ years of experience helping businesses grow. ",
   summary:
     "I simplify complex IT problems so businesses can focus on growth.",
   avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
@@ -44,95 +44,41 @@ export const RESUME_DATA = {
   ],
   work: [
      {
-      company: "Robert Half (Contracted w/City of San Leandro",
-      link: "https://www.sanleandro.org/",
-      badges: ["IT Technician"],
-      title: "Contract Employment",
+      company: "Cognizant",
+      link: "https://www.cognizant.com/us/en",
+      badges: ["Technical Field Specialist"],
+      title: "Full-Time",
       logo: "", // Add logo if available
-      start: "2023",
+      start: "2025",
       end: "Present",
       description: (
          <>
-          <li>
-            Performing regular maintenance and backups. {" "}
-          </li>
-          <li>
-            Writing and documenting technical procedures.
-          </li>
-          <li>
-            Responding to and resolving user queries and prolems.
-          </li>
-          <li>
-            Assisting with the maintenance and updates of web pages. 
-          </li>
-            <li>
-             Installing, troubleshooting, and resolving technical issues.
-          </li>
-           <li>
-             Maintaining records of equipment, inventory, and service requests.
-          </li>
         </>
       ),
     },
      {
-      company: "Robert Half (Contracted w/City of San Leandro",
-      link: "https://www.sanleandro.org/",
-      badges: ["IT Technician"],
-      title: "Contract Employment",
+      company: "Tesla",
+      link: "https://www.tesla.com/",
+      badges: ["Data Collection Operator"],
+      title: "Full-Time",
       logo: "", // Add logo if available
-      start: "2023",
-      end: "Present",
+      start: "March 2025 - ",
+      end: "June 2025",
       description: (
          <>
-          <li>
-            Performing regular maintenance and backups. {" "}
-          </li>
-          <li>
-            Writing and documenting technical procedures.
-          </li>
-          <li>
-            Responding to and resolving user queries and prolems.
-          </li>
-          <li>
-            Assisting with the maintenance and updates of web pages. 
-          </li>
-            <li>
-             Installing, troubleshooting, and resolving technical issues.
-          </li>
-           <li>
-             Maintaining records of equipment, inventory, and service requests.
-          </li>
         </>
       ),
     },
     {
-      company: "Robert Half (Contracted w/City of San Leandro",
-      link: "https://www.sanleandro.org/",
-      badges: ["IT Technician"],
-      title: "Contract Employment",
+      company: "Bay Seal Company",
+      link: "https://www.bayseal.com/",
+      badges: ["IT Support Specialist"],
+      title: "Full-Time",
       logo: "", // Add logo if available
-      start: "2023",
-      end: "Present",
+      start: "2024",
+      end: "2025",
       description: (
          <>
-          <li>
-            Performing regular maintenance and backups. {" "}
-          </li>
-          <li>
-            Writing and documenting technical procedures.
-          </li>
-          <li>
-            Responding to and resolving user queries and prolems.
-          </li>
-          <li>
-            Assisting with the maintenance and updates of web pages. 
-          </li>
-            <li>
-             Installing, troubleshooting, and resolving technical issues.
-          </li>
-           <li>
-             Maintaining records of equipment, inventory, and service requests.
-          </li>
         </>
       ),
     },
@@ -146,43 +92,19 @@ export const RESUME_DATA = {
       end: "2023",
       description: (
         <>
-          <li>
-            Oversaw tasks such as new hire onboarding, troubleshooting, and user offboarding. {" "}
-          </li>
-          <li>
-           Provided technical support to clients, addressing hardware and software issues.
-          </li>
-          <li>
-            Implemented MDM and MAM software for effecient device management.
-          </li>
-           <li>
-             Administered Google & Microsoft administrator portals.
-          </li>
-            Integrated SSO integrations for various platforms.
-          <li>  
-          </li>
         </>
       ),
     },
      {
       company: "Alameda County ITD",
       link: "https://itd.acgov.org/",
-      badges: ["Technical Specialist 1"],
+      badges: ["Technical Specialist I"],
       title: "Internship",
       logo: "",
       start: "2017",
       end: "2018",
       description: (
         <>
-          <li>
-            Utilized DocuSign APIs for paperless procedures. 
-          </li>
-          <li>
-            Developed internal Ergonomic Evaluation web application. {" "}
-          </li>
-          <li>
-            Managed hardware refresh projects and deployed custom images to multiple devices.
-          </li>
         </>
        ),
     },
@@ -195,23 +117,6 @@ export const RESUME_DATA = {
       start: "2018",
       end: "2022",
       description: (
-        <>
-          <li>
-            Collaborated with a team of 35+ employees to consistently exceed sales metric quotas.
-          </li>
-          <li>
-            Headed the rapid execution sales team, aiming to swiftly adapt to market demands.
-          </li>
-          <li>
-            Conducted training sessions for the implementation of new sprint systems.
-          </li>
-          <li>
-            Recipient of the Winners Cicle Award for the third quarter of 2019.
-          </li>
-          <li>
-            Top salesman overall 2019 across all metrics.
-          </li>
-        </>
       ),
     },
   ],
