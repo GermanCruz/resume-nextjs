@@ -43,6 +43,68 @@ export const RESUME_DATA = {
     },
   ],
   work: [
+     {
+      company: "Robert Half (Contracted w/City of San Leandro",
+      link: "https://www.sanleandro.org/",
+      badges: ["IT Technician"],
+      title: "Contract Employment",
+      logo: "", // Add logo if available
+      start: "2023",
+      end: "Present",
+      description: (
+         <>
+          <li>
+            Performing regular maintenance and backups. {" "}
+          </li>
+          <li>
+            Writing and documenting technical procedures.
+          </li>
+          <li>
+            Responding to and resolving user queries and prolems.
+          </li>
+          <li>
+            Assisting with the maintenance and updates of web pages. 
+          </li>
+            <li>
+             Installing, troubleshooting, and resolving technical issues.
+          </li>
+           <li>
+             Maintaining records of equipment, inventory, and service requests.
+          </li>
+        </>
+      ),
+    },
+     {
+      company: "Robert Half (Contracted w/City of San Leandro",
+      link: "https://www.sanleandro.org/",
+      badges: ["IT Technician"],
+      title: "Contract Employment",
+      logo: "", // Add logo if available
+      start: "2023",
+      end: "Present",
+      description: (
+         <>
+          <li>
+            Performing regular maintenance and backups. {" "}
+          </li>
+          <li>
+            Writing and documenting technical procedures.
+          </li>
+          <li>
+            Responding to and resolving user queries and prolems.
+          </li>
+          <li>
+            Assisting with the maintenance and updates of web pages. 
+          </li>
+            <li>
+             Installing, troubleshooting, and resolving technical issues.
+          </li>
+           <li>
+             Maintaining records of equipment, inventory, and service requests.
+          </li>
+        </>
+      ),
+    },
     {
       company: "Robert Half (Contracted w/City of San Leandro",
       link: "https://www.sanleandro.org/",
