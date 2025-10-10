@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   location: "San Lorenzo",
   locationLink: "https://www.google.com/maps/place/San+Lorenzo",
   about:
-    "Passionate about Information technology, I research cybersecurity, ethical hacking, and network defense. My goal is to stay ahead of emerging threats and contribute to a safer digital future.",
+    "Currently employed by Cognizant as a Technical Field Specialist. ",
   summary:
     "Proficient in IT helpdesk Support, I excel in providing technical assistance.",
   avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
