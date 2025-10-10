@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   location: "San Lorenzo",
   locationLink: "https://www.google.com/maps/place/San+Lorenzo",
   about:
-    "Currently employed by Cognizant as a Technical Field Specialist. ",
+    "I simplify complex IT problems so businesses can focus on growth.",
   summary:
     "Proficient in IT helpdesk Support, I excel in providing technical assistance.",
   avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
