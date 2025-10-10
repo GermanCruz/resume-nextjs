@@ -44,9 +44,9 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "City Of San Leandro",
+      company: "Robert Half (Contracted w/City of San Leandro",
       link: "https://www.sanleandro.org/",
-      badges: ["HelpDesk Analyst II"],
+      badges: ["IT Technician"],
       title: "Contract Employment",
       logo: "", // Add logo if available
       start: "2023",
