@@ -51,10 +51,7 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "2025",
       end: "Present",
-      description: (
-         <>
-        </>
-      ),
+      
     },
      {
       company: "Tesla",
