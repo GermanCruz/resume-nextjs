@@ -10,7 +10,7 @@ export const RESUME_DATA = {
   about:
     "I simplify complex IT problems so businesses can focus on growth.",
   summary:
-    "Proficient in IT helpdesk Support, I excel in providing technical assistance.",
+    "German Cruz is an Information Technology Professional with 8+ years of experience helping businesses grow. My experience ranges from customer service to Information Technology support Engineer roles. ",
   avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
   personalWebsiteUrl: "https://german-cruz.notion.site/german-cruz/Howdy-935cd4f92a214580b93f6ece3efc0d0a",
   contact: {
