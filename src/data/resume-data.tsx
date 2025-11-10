@@ -14,8 +14,8 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
   personalWebsiteUrl: "https://german-cruz.notion.site/german-cruz/Howdy-935cd4f92a214580b93f6ece3efc0d0a",
   contact: {
-    email: "germancruz2017@gmail.com",
-    tel: "+1 (510) 361-6067",
+    email: "",
+    tel: "",
     social: [
       {
         name: "GitHub",
@@ -51,7 +51,7 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "2025",
       end: "Present",
-      
+
     },
      {
       company: "Tesla",
@@ -61,9 +61,7 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "March 2025 - ",
       end: "June 2025",
-      description: (
-         <>
-        </>
+      description: (""
       ),
     },
     {
@@ -74,9 +72,7 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "2024",
       end: "2025",
-      description: (
-         <>
-        </>
+      description: (""
       ),
     },
     {
@@ -87,9 +83,7 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "2022",
       end: "2023",
-      description: (
-        <>
-        </>
+      description: (""
       ),
     },
      {
@@ -100,9 +94,7 @@ export const RESUME_DATA = {
       logo: "",
       start: "2017",
       end: "2018",
-      description: (
-        <>
-        </>
+      description: (""
        ),
     },
     {
@@ -113,7 +105,7 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "2018",
       end: "2022",
-      description: (
+      description: (""
       ),
     },
   ],
