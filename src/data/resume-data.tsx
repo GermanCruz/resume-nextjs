@@ -14,8 +14,8 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
   personalWebsiteUrl: "https://german-cruz.notion.site/german-cruz/Howdy-935cd4f92a214580b93f6ece3efc0d0a",
   contact: {
-    email: "",
-    tel: "",
+    email: "test@gmail.com",
+    tel: "+1 510 000-0000",
     social: [
       {
         name: "GitHub",
