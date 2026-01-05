@@ -140,7 +140,7 @@ export const RESUME_DATA = {
         "Naro sits in the background, using contextual clues to proactively select the right content and messaging for each customer conversation, from emails to meetings.",
       link: {
         label: "narohq.com",
-        href: "http://narohq.co",
+        href: "http://narohq.com",
       },
     },
     {
