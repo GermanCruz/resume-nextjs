@@ -36,71 +36,71 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Chabot College",
-      degree: "In Progress",
-      start: "2018",
-      end: "Present",
+      school: "City College Of Berkeley",
+      degree: "Computer Engineering",
+      start: "2026",
+      end: "2030",
     },
   ],
   work: [
      {
-      company: "Robert Half (Contracted w/City of San Leandro",
-      link: "https://www.sanleandro.org/",
-      badges: ["IT Technician"],
-      title: "Contract Employment",
+      company: "Cognizant",
+      link: "https://www.cognizant.com/us/en",
+      badges: ["Senior Process Executive Level"],
+      title: "Technical Field Specialist",
       logo: "", // Add logo if available
-      start: "2023",
+      start: "2025",
       end: "Present",
       description: (
          <>
           <li>
-            Performing regular maintenance and backups. {" "}
+            Provide technical expertise and support to clients in various industries. 
           </li>
           <li>
-            Writing and documenting technical procedures.
+            Troubleshoot and solve complex technical issues for clients.
           </li>
           <li>
-            Responding to and resolving user queries and prolems.
+            .
           </li>
           <li>
-            Assisting with the maintenance and updates of web pages. 
+            . 
           </li>
             <li>
-             Installing, troubleshooting, and resolving technical issues.
+             .
           </li>
            <li>
-             Maintaining records of equipment, inventory, and service requests.
+             .
           </li>
         </>
       ),
     },
      {
-      company: "Robert Half (Contracted w/City of San Leandro",
-      link: "https://www.sanleandro.org/",
-      badges: ["IT Technician"],
-      title: "Contract Employment",
+      company: "Bay Seal Company",
+      link: "https://www.Bayseal.com",
+      badges: ["IT Specialist"],
+      title: "Full-Time On-Site",
       logo: "", // Add logo if available
-      start: "2023",
+      start: "2024",
       end: "Present",
       description: (
          <>
           <li>
-            Performing regular maintenance and backups. {" "}
+            
           </li>
           <li>
-            Writing and documenting technical procedures.
+            
           </li>
           <li>
-            Responding to and resolving user queries and prolems.
+            
           </li>
           <li>
-            Assisting with the maintenance and updates of web pages. 
+             
           </li>
             <li>
-             Installing, troubleshooting, and resolving technical issues.
+             
           </li>
            <li>
-             Maintaining records of equipment, inventory, and service requests.
+             
           </li>
         </>
       ),
