@@ -103,7 +103,21 @@ export const RESUME_DATA = {
       description: ("Offered professional guidance in the troubleshooting of specific computer software applications."
       ),
     },
-     {
+     
+
+    {
+      company: "T-Mobile USA",
+      link: "https://www.t-mobile.com/",
+      badges: ["Bilingual Sales Expert"],
+      title: "Full-Time Employment",
+      logo: "", // Add logo if available
+      start: "2018",
+      end: "2022",
+      description: ("Orchestrated technical solutions for complex network coverage needs sharing insights into product road maps and future technologies."
+      ),
+    },
+
+    {
       company: "Alameda County ITD",
       link: "https://itd.acgov.org/",
       badges: ["Technical Specialist I"],
@@ -127,17 +141,6 @@ export const RESUME_DATA = {
        ),
     },
 
-    {
-      company: "T-Mobile USA",
-      link: "https://www.t-mobile.com/",
-      badges: ["Bilingual Sales Expert"],
-      title: "Full-Time Employment",
-      logo: "", // Add logo if available
-      start: "2018",
-      end: "2022",
-      description: ("Orchestrated technical solutions for complex network coverage needs sharing insights into product road maps and future technologies."
-      ),
-    },
   ],
   skills: [
     "Security",
