@@ -52,10 +52,8 @@ export const RESUME_DATA = {
       start: "2025",
       end: "Present",
       description: ("Technical Specialist for Google on behalf of Cognizant.", // Just added this line
-                    
-                    
 
-    },
+     },
      {
       company: "Tesla",
       link: "https://www.tesla.com/",
