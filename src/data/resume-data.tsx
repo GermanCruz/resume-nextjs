@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   location: "California",
   locationLink: "https://www.google.com/maps/place/San+Lorenzo",
   about:
-    " ",
+    " Business oriented Systems Administrator with experience within Semi-conductor industry. Versed in modern System Administration by leveraging quantitative and qualitative properties to execute formal system specifications. ",
   summary:
     "I simplify complex IT problems so businesses can focus on growth.",
   avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
