@@ -167,7 +167,7 @@ export const RESUME_DATA = {
     
     {
       title: "Rate Plan Function",
-      techstack:["C++, NotePad++"],
+      techStack:["C++, NotePad++"],
       description: 
         "A menu driven program that makes a function call for each selection the user makes.",
       link: {
