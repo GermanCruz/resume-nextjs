@@ -163,10 +163,8 @@ export const RESUME_DATA = {
         label: "Creator",
         href: "https://www.flickr.com/photos/alcoitd/25287367239/in/album-72157665703786985/",
       },
-    },    
-  ],
-
-  projects: [
+    },  
+    
     {
       title: "Rate Plan Function",
       techstack:["C++, NotePad++"],
@@ -177,7 +175,9 @@ export const RESUME_DATA = {
         href: "",
       },
     },
+
   ],
+
 
   clients: [
     
