@@ -5,7 +5,7 @@ import { XIcon } from "../components/icons/XIcon";
 export const RESUME_DATA = {
   name: "German Cruz",
   initials: "gm",
-  location: "San Lorenzo",
+  location: "California",
   locationLink: "https://www.google.com/maps/place/San+Lorenzo",
   about:
     " ",
@@ -43,7 +43,8 @@ export const RESUME_DATA = {
     },
   ],
   work: [
-     {
+
+    {
       company: "Cognizant",
       link: "https://www.cognizant.com/us/en",
       badges: ["Technical Field Specialist"],
@@ -53,17 +54,7 @@ export const RESUME_DATA = {
       end: "Present",
       description: "Technical Specialist for Google on behalf of Cognizant.",
     },
-     {
-      company: "Tesla",
-      link: "https://www.tesla.com/",
-      badges: ["Data Collection Operator"],
-      title: "Full-Time",
-      logo: "", // Add logo if available
-      start: "March 2025 - ",
-      end: "June 2025",
-      description: (""
-      ),
-    },
+
     {
       company: "Bay Seal Company",
       link: "https://www.bayseal.com/",
@@ -72,31 +63,71 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "2024",
       end: "2025",
-      description: (""
+      description: ("Managed the end-to-end hardware and software deployment life cycle for users across four corporate entities, including the administration of ERP systems and critical shipping software technologies."
       ),
     },
+
+    {
+      company: "City Of San Leandro on behalf of Robert Half"
+      link: "https://www.roberthalf.com/us/en",
+      badges: ["IT Technician"]
+      title: "Full-time - Contract",
+      logo: "", // Add logo if available 
+      start: "2023",
+      end: "2024",
+      description: ("Supported City Of San Leandro Information Technology needs."
+      ),
+
+    }
+
+     
+    {
+      company: "Tesla",
+      link: "https://www.tesla.com/",
+      badges: ["Data Collection Operator"],
+      title: "Full-Time",
+      logo: "", // Add logo if available
+      start: "March 2025 - ",
+      end: "June 2025",
+      description: ("Led the deployment of specific workflows to improve effeciency and reduce errors during crucial live data captures."
+      ),
+    },
+    
     {
       company: "Renascent Technology, LLC",
       link: "https://german-cruz.notion.site/german-cruz/Howdy-935cd4f92a214580b93f6ece3efc0d0a",
       badges: ["IT Support Engineer"],
-      title: "Full-Time Employment",
+      title: "Full-Time - Hybrid",
       logo: "", // Add logo if available
       start: "2022",
       end: "2023",
-      description: (""
+      description: ("Offered professional guidance in the troubleshooting of specific computer software applications."
       ),
     },
      {
       company: "Alameda County ITD",
       link: "https://itd.acgov.org/",
       badges: ["Technical Specialist I"],
-      title: "Internship",
+      title: "Web Development Intern",
       logo: "",
       start: "2017",
       end: "2018",
       description: (""
        ),
     },
+
+    {
+      company: "Alameda County ITD",
+      link: "https://itd.acgov.org/",
+      badges: ["Technical Specialist I"],
+      title: "Web Development Intern",
+      logo: "",
+      start: "2017",
+      end: "2018",
+      description: (""
+       ),
+    },
+
     {
       company: "T-Mobile USA",
       link: "https://www.t-mobile.com/",
@@ -105,7 +136,7 @@ export const RESUME_DATA = {
       logo: "", // Add logo if available
       start: "2018",
       end: "2022",
-      description: (""
+      description: ("Orchestrated technical solutions for complex network coverage needs sharing insights into product road maps and future technologies."
       ),
     },
   ],
@@ -134,13 +165,13 @@ export const RESUME_DATA = {
   ],
   clients: [
     {
-      title: "Naro",
-      techStack: ["python", "prompt engineering", "sales"],
+      title: "Rate Plan Function",
+      techStack: ["C++"],
       description:
-        "Naro sits in the background, using contextual clues to proactively select the right content and messaging for each customer conversation, from emails to meetings.",
+        "This is a menu driven program that makes a function call for each selection the user makes.",
       link: {
-        label: "narohq.com",
-        href: "http://narohq.com",
+        label: "",
+        href: "",
       },
     },
     {
