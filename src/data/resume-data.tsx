@@ -70,7 +70,7 @@ export const RESUME_DATA = {
     {
       company: "City Of San Leandro on behalf of Robert Half"
       link: "https://www.roberthalf.com/us/en",
-      badges: ["IT Technician"]
+      badges: ["IT Technician"],
       title: "Full-time - Contract",
       logo: "", // Add logo if available 
       start: "2023",
