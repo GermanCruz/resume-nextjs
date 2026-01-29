@@ -48,12 +48,11 @@ export const RESUME_DATA = {
       link: "https://www.cognizant.com/us/en",
       badges: ["Technical Field Specialist"],
       title: "Full-Time",
-      logo: "", // Add logo if available
+      logo: "",
       start: "2025",
       end: "Present",
-      description: ("Technical Specialist for Google on behalf of Cognizant.", // Just added this line
-
-     },
+      description: "Technical Specialist for Google on behalf of Cognizant.",
+    },
      {
       company: "Tesla",
       link: "https://www.tesla.com/",
