@@ -78,10 +78,9 @@ export const RESUME_DATA = {
       description: ("Supported City Of San Leandro Information Technology needs."
       ),
 
-    }
-
-     
-    {
+    },
+  
+   {
       company: "Tesla",
       link: "https://www.tesla.com/",
       badges: ["Data Collection Operator"],
