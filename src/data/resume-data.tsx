@@ -8,7 +8,7 @@ export const RESUME_DATA = {
   location: "San Lorenzo",
   locationLink: "https://www.google.com/maps/place/San+Lorenzo",
   about:
-    "German Cruz is an Information Technology Professional with 8+ years of experience helping businesses grow. ",
+    "Busines oriented Systems Administrator with experience within semi-conductor industry. Versed in modern System administration by leveraging quantitative and qualitative properties to execute formal system specifications.",
   summary:
     "I simplify complex IT problems so businesses can focus on growth.",
   avatarUrl: "https://avatars.githubusercontent.com/u/19968028?v=4",
