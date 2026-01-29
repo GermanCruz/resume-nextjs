@@ -121,8 +121,8 @@ export const RESUME_DATA = {
       badges: ["Technical Specialist I"],
       title: "Web Development Intern",
       logo: "",
-      start: "2017",
-      end: "2018",
+      start: "2016",
+      end: "2017",
       description: (""
        ),
     },
