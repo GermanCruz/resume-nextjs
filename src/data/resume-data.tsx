@@ -165,17 +165,21 @@ export const RESUME_DATA = {
       },
     },    
   ],
-  clients: [
+
+  projects: [
     {
       title: "Rate Plan Function",
-      techStack: ["C++"],
-      description:
-        "This is a menu driven program that makes a function call for each selection the user makes.",
+      techstack:["C++, NotePad++"],
+      description: "A menu driven program that makes a function call for each selection the user makes.",
       link: {
-        label: "",
+        label: "Programmer",
         href: "",
-      },
-    },
+      }
+    }
+  ]
+
+  clients: [
+    
     {
       title: "Trunk Tools",
       techStack: [
