@@ -176,6 +176,17 @@ export const RESUME_DATA = {
       },
     },
 
+      {
+      title: "iOS Shortcut - Auto-close Browser Tabs",
+      techStack: ["iOS", "Shortcuts", "iPhone 15 Pro Max"],
+      description:
+        "A simple iOS shortcut to automate closing browser tabs.",
+      link: {
+        label: "Creator",
+        href: "https://medium.com/p/2e25e1729b36",
+      },
+    },  
+
   ],
 
 
